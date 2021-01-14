@@ -1,0 +1,145 @@
+body{
+    font-family: 'Fraunces', serif;
+
+}
+img{
+    max-width: 100%;
+}
+header{
+    background-color: #FFFBF0;
+}
+.link a{
+    margin: 13px;
+    color:#3C3C3C;
+}
+.navbar img{
+    width: 300px;
+}
+.header-content h1{
+    font-size: 50px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+.header-content{
+   height: 600px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+.header-content p{
+    margin-bottom:25px;
+}
+.button{
+    padding: 10px 31px;
+    background-color:#A4BC46 ;
+    color: #fff;
+}
+.navbar-fix{
+    padding-left: 200px;
+}
+.highlight-1{
+    color: #FABE4C;
+}
+.highlight-2{
+    color: #363958;
+}
+.img-1{
+    background-color:#F1F1F1;
+    border-radius: 20px;
+    width: 313px;
+    margin-top: 3px;
+    padding-top: 17px;
+    padding-bottom: 23px;
+    padding-top: 20px;
+}
+.img-2{
+    width: 267px;
+    margin-left: 18px;
+    margin-top: 0px;
+    padding: 20px;
+    background-color:#F1F1F1;
+    border-radius: 20px;
+}
+.img-3{
+    width: 290px;
+    margin-left: 7px;
+    padding: 19px;
+    background-color:#F1F1F1;
+    border-radius: 20px;
+    margin-top: 0px;
+}
+.card-style{
+    border-radius: 20px;
+    margin: 10px;
+}
+.m-img-2{
+        width: 300px;
+        margin-top: 0px;
+        margin-bottom: 71px;
+        background-color:#F1F1F1;
+        border-radius: 20px;
+        padding-top: 33px;
+        padding-bottom: 62px;
+    }
+
+.m-img-1{
+    border-radius: 20px;
+    background-color:#F1F1F1;
+    padding: 10px;
+
+}
+.m-img-3{
+    width: 275px;
+    padding: 15px;
+    background-color: #f1f1f1;
+    border-radius: 20px;
+    margin-left: 12px;
+}
+.c-body1{
+    position: relative;
+    top: 40px;
+}
+.c-body2{
+    position:relative;
+    bottom: 7%;
+}
+.c-body3{
+    top: 44px;
+    position: relative;
+}
+.c-foot1{
+    position: relative;
+    bottom: 5%;
+}
+.c-foot2{
+    position: relative;
+    bottom: 5%;
+}
+.c-foot3{
+    position: relative;
+    bottom: 5%;
+}
+.vertical-col{
+    border-radius: 20px;
+    padding: 20px;
+}
+.final-sec img {
+    width: 105px;
+}
+.final-sec{
+    margin-top: 100px;
+}
+.woman-jack{
+    margin-top: 50px;
+}
+.man-jack{
+    margin-top : 70px;
+}
+.content{
+    margin-left: 15px;
+}
+.final img{
+    position: relative;
+    top: 130px;
+    left: 100px;
+}
