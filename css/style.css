@@ -143,3 +143,35 @@ header{
     top: 130px;
     left: 100px;
 }
+.body-2{
+    position: relative;
+    bottom: 80px;
+}
+@media (max-width:992px){
+    .c-body1,.c-body3{
+        position: relative;
+        top: -13px;
+    }
+    
+}
+@media(max-width:668px){
+    .c-body1,.c-body3{
+        position: relative;
+        top: -13px;
+    }
+    .img-1,.img-2,.img-3,.m-img-2,.m-img-3{
+        margin-left: 70px;
+    }
+    .c-body1,.c-body2,.c-body3{
+        margin-left: 70px;
+    }
+    .c-foot1,.c-foot2,.c-foot3{
+        padding: 15px 15px;
+    }
+    .c-foot{
+        padding: 10px 15px;
+    }
+    .final-sec{
+        flex-direction: column;
+    }
+}
